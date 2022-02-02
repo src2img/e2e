@@ -1,0 +1,3 @@
+BP_NODE_RUN_SCRIPTS=build,clean-sources
+BP_WEB_SERVER=ngingx
+BP_WEB_SERVER_ROOT=build
