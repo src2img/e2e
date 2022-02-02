@@ -1,0 +1,21 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "This repository contains branches with sample code for our e2e tests. This contains Node.JS code without a package.json.",
+  "scripts": {
+    "start": "node custom.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/src2img/e2e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/src2img/e2e/issues"
+  },
+  "homepage": "https://github.com/src2img/e2e#readme",
+  "dependencies": {
+    "simple-test-package": "^0.2.2"
+  }
+}
