@@ -1,3 +1,4 @@
-# e2e
+# Simple python application
 
-This repository contains branches with sample code for our e2e tests.
+This branch contains a simple python application that does not require package management. It also uses the Procfile
+mechanism to set the start process to `python main.py`.
