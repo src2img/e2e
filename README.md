@@ -1,3 +1,3 @@
 # e2e
 
-This repository contains branches with sample code for our e2e tests.
+This branch contains a python application that uses Pip for package management. It also uses the Procfile mechanism to set the start process to python main.py.
