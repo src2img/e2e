@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>OpenLiberty Sample</title>
+        <script type="text/javascript">
+
+            fetch('/system/properties')
+                .then((response) => response.json())
+                .then((data) => {
+                    debugger;
+                    console.log(JSON.stringify(data));
+
+                    data.forEach((entry) => {
+
+                    });
+                })
+
+        </script>
+    </head>
+    <body>
+        <h1>OpenLiberty sample</h1>
+        <h2>System properties:</h2>
+        <ul id="properties">
+
+        </ul>
+    </body>
+</html>
