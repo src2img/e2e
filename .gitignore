@@ -1,0 +1,26 @@
+# VISUAL STUDIO HIDDEN FILES
+# OS GENERATED FILES #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon
+ehthumbs.db
+Thumbs.db
+
+# RESIZE GENERATED FILES
+/resize
+
+# CSS FILES
+css/*.min.css
+css/*.css.map
+
+# VENDOR
+/vendor/
+
+# VISUAL STUDIO HIDDEN FILES
+old/
+
+resources/

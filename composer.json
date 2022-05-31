@@ -1,0 +1,14 @@
+{
+    "name": "s2i/test",
+    "description": "Test",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "gregwar/image": "^2.0",
+        "mobiledetect/mobiledetectlib": "^2.8"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}

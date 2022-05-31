@@ -1,0 +1,2 @@
+BP_PHP_SERVER=httpd
+BP_PHP_VERSION=7.4.*
