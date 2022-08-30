@@ -1,0 +1,4 @@
+[submodule "is-number-object"]
+	path = external-packages/is-number-object
+	url = https://github.com/inspect-js/is-number-object
+	branch = main
