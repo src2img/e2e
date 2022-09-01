@@ -1,0 +1,10 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-test-package": "^0.2.2"
+  }
+}
