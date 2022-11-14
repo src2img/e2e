@@ -1,0 +1,14 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "sample package to run limit tests",
+  "main": "index.js",
+  "scripts": {
+    "install": "sleep 3600 && echo 'done with the build'",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/src2img/e2e.git"
+  }
+}
