@@ -1,0 +1,21 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "engines": {
+    "node": "~16"
+  },
+  "description": "This repository contains branches with sample code for our e2e tests. This branch contains a Node application which defines the desired Node version in its package.json.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/src2img/e2e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/src2img/e2e/issues"
+  },
+  "homepage": "https://github.com/src2img/e2e#readme",
+  "devDependencies": {
+    "@types/node": "^16.18.9"
+  }
+}
