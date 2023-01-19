@@ -2,4 +2,4 @@ name: s2i-sample
 
 dependencies:
   - python=3.7
-  - termcolor
+  - termcolor=1.1.0
