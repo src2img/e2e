@@ -2,7 +2,7 @@
   "name": "e2e",
   "version": "1.0.0",
   "engines": {
-    "node": "~16"
+    "node": "~18"
   },
   "description": "This repository contains branches with sample code for our e2e tests. This branch contains a Node application which defines the desired Node version in its package.json.",
   "repository": {
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/src2img/e2e#readme",
   "devDependencies": {
-    "@types/node": "^16.18.9"
+    "@types/node": "^18.19.39"
   }
 }
