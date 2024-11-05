@@ -1,4 +1,4 @@
-val scala3Version = "3.2.1"
+val scala3Version = "3.3.4"
 
 lazy val root = project
   .in(file("."))
@@ -8,7 +8,7 @@ lazy val root = project
 
     scalaVersion := scala3Version,
 
-    libraryDependencies += "commons-io" % "commons-io" % "2.11.0"
+    libraryDependencies += "commons-io" % "commons-io" % "2.17.0"
   )
 
 enablePlugins(JavaAppPackaging)
