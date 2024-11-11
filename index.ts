@@ -16,5 +16,7 @@ const message = any(['Hello', 'Nice to see you.', 'Howdy']);
 
 console.log(message);
 
+console.log(`Arguments: ${JSON.stringify(process.argv)}`);
+
 // Run some non-sense code to use the library
 console.log(`BTW, is 12 a number? ${isNumber(12)}`);
